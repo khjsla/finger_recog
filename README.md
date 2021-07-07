@@ -65,9 +65,12 @@
 
 ```
 8. Minutiae Detection
+: 1~7 과정을 통해 추출해낸 minutiae point 들을 detect하여 지문사진을 분석한다.
 ```
+![fin18](https://user-images.githubusercontent.com/54773137/124730546-6cc09100-df4c-11eb-93df-d453428bf7d0.png)
 
 ------------
 
 ## Analysis 
+
 ![fin17](https://user-images.githubusercontent.com/54773137/124725391-ca061380-df47-11eb-8594-a978c6b887d3.png)
